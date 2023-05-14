@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "src": "../../../public/img/Smile_emoji.png",
+        "title": "Reduced Anxiety",
+        "descr": "Never worry about losing your audience."
+    },
+    {
+        "id": 2,
+        "src": "../../../public/img/Happy_emoji.png",
+        "title": "Lower Workload",
+        "descr": "Just share one link. We'll handle the rest."
+    },
+    {
+        "id": 3,
+        "src": "../../../public/img/Party_emoji.png",
+        "title": "More Time",
+        "descr": "Spend less time on marketing tools"
+    }
+]
